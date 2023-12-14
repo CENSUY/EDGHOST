@@ -214,9 +214,9 @@
 
     git clone (https://github.com/CENSUY/EDGHOST)
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 EDGHOST  
     
-    cd hackingtool
+    cd EDGHOST
     
     sudo bash install.sh
     
