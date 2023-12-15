@@ -227,12 +227,12 @@
 ## Use image with Docker
 
 ### Run in one click
-`docker run -it vgpastor/hackingtool`
+`docker run -it vgpastor/EDGHOST`
 
 ### Build locally
 `docker-compose build`
 
-`docker-compose run hackingtool`
+`docker-compose run EDGHOST`
 
 - If need open other ports you can edit the docker-compose.yml file
 - Volumes are mounted in the container to persist data and can share files between the host and the container
